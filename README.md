@@ -9,8 +9,10 @@ Full-stack sentiment analysis application using BERT-based NLP models to classif
 ├── backend/ # Flask REST API with ML model (Python)
 └── frontend/ # Next.js web application (React)
 ## 🚀 Live Demo
-- **Backend API:** https://your-railway-url.up.railway.app
-- **Frontend:** [Will be deployed on Vercel]
+- **Frontend:** https://sem5-customersentimentanalysis-api.vercel.app
+- **Backend API:** https://customersentimentanalysis-production.up.railway.app
+- **API Health Check:** https://customersentimentanalysis-production.up.railway.app/health
+- **API Documentation:** https://customersentimentanalysis-production.up.railway.app/
 
 ## 🛠️ Tech Stack
 - **Backend:** Python, Flask, PyTorch, Transformers, Railway
