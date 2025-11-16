@@ -1,0 +1,23 @@
+# Backend
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/venv/
+backend/.venv/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*.local
+frontend/.vercel
+
+# Model files
+amazon_sentiment_bert_model/
+*.safetensors
+*.bin
+*.pt
+
+# General
+.DS_Store
+*.log
